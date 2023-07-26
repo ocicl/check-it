@@ -1,0 +1,10 @@
+* check-it
+
+Randomized specification-based testing for Common Lisp. Available through Quicklisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/DalekBaldwin/check-it.git   |
+| commit  | b79c910  |
+| systems | check-it |
+|---------+-------------------------------------------|
+
